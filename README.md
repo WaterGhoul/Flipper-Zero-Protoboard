@@ -2,7 +2,7 @@
 A basic protoboard for the Flipper Zero with LED power indicators
 
 # Purchasing
-You can purchase this an my other products on Tindie!
+You can purchase this and my other products on Tindie!
 
 <a href="https://www.tindie.com/stores/water_ghoul/?ref=offsite_badges&utm_source=sellers_Water_Ghoul&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
