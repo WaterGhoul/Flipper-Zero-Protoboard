@@ -17,3 +17,6 @@ Nothing is EVER expected for providing my designs, however if you wish to suppor
 **DOGE** ``DC1Q4ip8mLsAgvbLL4evxJQhaCE7QosFZ9``
 
 **LTC** ``ltc1q33sg6eea2yqzdx85h38v7rpw7kzlgmqtn8m5nm``
+
+# License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
